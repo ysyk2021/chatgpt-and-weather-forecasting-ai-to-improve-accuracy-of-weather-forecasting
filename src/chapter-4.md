@@ -6,7 +6,7 @@ In this chapter, we will introduce ChatGPT, an AI-powered chatbot that is being 
 What is ChatGPT?
 ----------------
 
-ChatGPT is an AI-powered chatbot based on the GPT-3 language model developed by OpenAI. It is designed to engage in natural language conversations with users and provide personalized weather forecasts based on their location, preferences, and other factors.
+ChatGPT is an AI-powered chatbot based on the GPT-3.5 language model developed by OpenAI. It is designed to engage in natural language conversations with users and provide personalized weather forecasts based on their location, preferences, and other factors.
 
 ChatGPT can be customized to fit the specific needs of different industries and applications, including weather forecasting. By analyzing large amounts of meteorological data and identifying patterns and trends, ChatGPT can generate highly accurate and reliable weather forecasts.
 
