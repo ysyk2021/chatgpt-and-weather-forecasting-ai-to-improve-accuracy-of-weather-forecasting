@@ -11,4 +11,3 @@ In the context of weather forecasting, ChatGPT can be used to generate weather r
 
 ChatGPT is a powerful tool that has the potential to revolutionize the field of weather forecasting. Its ability to generate human-like text makes it easy to understand and interpret weather data, even for non-experts. By using ChatGPT to improve the accuracy of weather forecasting, we can better prepare for extreme weather events and mitigate their impact on society.
 
-In the next chapter, we will explore how ChatGPT can be used in weather forecasting and the benefits it provides over traditional methods.

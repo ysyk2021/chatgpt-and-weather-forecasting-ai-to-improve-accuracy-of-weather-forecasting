@@ -13,4 +13,4 @@ One of the main benefits of using AI in weather forecasting is its ability to pr
 
 Another benefit of AI in weather forecasting is its ability to generate probabilistic forecasts. Probabilistic forecasts provide a range of possible outcomes, along with their associated probabilities. This allows for better risk management and decision-making in industries such as agriculture, aviation, and renewable energy.
 
-AI-based weather forecasting has already made significant improvements in the accuracy of weather forecasts. As AI technologies continue to evolve, we can expect even greater improvements in the accuracy and timeliness of weather forecasts. In the next chapter, we will explore how ChatGPT, a specific AI-based tool, can be used to improve weather forecasting accuracy.
+AI-based weather forecasting has already made significant improvements in the accuracy of weather forecasts. As AI technologies continue to evolve, we can expect even greater improvements in the accuracy and timeliness of weather forecasts.

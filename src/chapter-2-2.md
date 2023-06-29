@@ -13,4 +13,3 @@ Remote sensing involves using satellite imagery and radar data to observe weathe
 
 Over the years, advancements in technology have led to significant improvements in the accuracy of weather forecasts. Today, weather forecasting is an essential service that supports numerous industries, including agriculture, aviation, and renewable energy.
 
-In the next chapter, we will explore how artificial intelligence (AI) is being used to improve the accuracy of weather forecasting. AI-based tools such as ChatGPT have shown great promise in generating human-like weather reports and providing accurate long-term forecasts.
