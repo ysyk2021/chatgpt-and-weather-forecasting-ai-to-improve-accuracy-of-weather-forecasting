@@ -3,11 +3,6 @@ Case Studies on ChatGPT in Weather Forecasting
 
 ChatGPT is an artificial intelligence (AI) language model that has been shown to be effective in a wide range of applications, including weather forecasting. In this chapter, we will introduce ChatGPT and explore case studies on its use in weather forecasting.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI language model that uses deep learning techniques to analyze large amounts of text data and generate natural language responses. It is based on the GPT-2 architecture developed by OpenAI, and has been trained on a diverse range of text data to improve its ability to generate accurate and coherent responses.
-
 Case Studies on ChatGPT in Weather Forecasting
 ----------------------------------------------
 
