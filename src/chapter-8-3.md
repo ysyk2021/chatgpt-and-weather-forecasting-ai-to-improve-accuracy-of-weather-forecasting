@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we explored the use of ChatGPT, an AI-based tool, to improve the accuracy of weather forecasting. ChatGPT has shown great promise in generating human-like weather reports and providing accurate long-term forecasts.
 

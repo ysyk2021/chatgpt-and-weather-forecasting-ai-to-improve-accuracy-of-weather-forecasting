@@ -1,5 +1,4 @@
-How ChatGPT Works in Weather Forecasting
-======================================================================================================
+
 
 ChatGPT is an artificial intelligence (AI) language model that has been shown to improve the accuracy and reliability of weather forecasting. In this chapter, we will explore how ChatGPT works in weather forecasting and how it improves forecast accuracy.
 

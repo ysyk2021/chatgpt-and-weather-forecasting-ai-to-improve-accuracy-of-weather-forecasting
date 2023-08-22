@@ -1,4 +1,4 @@
-# Introduction
+
 
 Weather forecasting has come a long way over the past few decades, with advancements in technology and data analysis techniques greatly improving the accuracy of predictions. However, despite these improvements, there is still much room for improvement, especially when it comes to providing accurate forecasts in real-time.
 

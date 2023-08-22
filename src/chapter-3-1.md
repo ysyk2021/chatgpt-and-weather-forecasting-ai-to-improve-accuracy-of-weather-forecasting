@@ -1,5 +1,4 @@
-An Overview of AI in Weather Forecasting
-===================================================================================================
+
 
 In this chapter, we will provide an overview of the use of artificial intelligence (AI) in weather forecasting. AI techniques such as machine learning and deep learning have been increasingly used to improve the accuracy of weather forecasts.
 

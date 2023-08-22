@@ -1,5 +1,4 @@
-What is ChatGPT?
-====================================================
+
 
 In this chapter, we will introduce ChatGPT and explain what it is. ChatGPT stands for "Chat Generative Pre-trained Transformer". It is an AI-based tool developed by OpenAI that uses natural language processing (NLP) to generate human-like text.
 

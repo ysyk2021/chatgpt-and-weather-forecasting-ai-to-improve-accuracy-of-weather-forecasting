@@ -1,5 +1,4 @@
-Training ChatGPT and Managing Conversations
-========================================================================================================
+
 
 In this chapter, we will explore the implementation of ChatGPT in weather forecasting. Specifically, we will discuss how to train ChatGPT and manage conversations to improve the accuracy of weather forecasting.
 

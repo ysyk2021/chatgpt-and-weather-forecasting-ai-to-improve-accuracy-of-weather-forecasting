@@ -1,5 +1,4 @@
-The History and Evolution of Weather Forecasting
-==============================================================================================
+
 
 In this chapter, we will provide an overview of the history and evolution of weather forecasting. Weather forecasting is the application of science and technology to predict the state of the atmosphere for a given location and time.
 

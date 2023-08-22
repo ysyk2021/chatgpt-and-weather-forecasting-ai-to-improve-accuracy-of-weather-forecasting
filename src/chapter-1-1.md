@@ -1,5 +1,4 @@
-Overview of the book
-==================================
+
 
 In this book, we will explore the use of ChatGPT, an AI-based tool, to improve the accuracy of weather forecasting. Weather forecasting is an essential service that supports numerous industries, including agriculture, aviation, and renewable energy. Accurate weather forecasts can help individuals and organizations make informed decisions about their daily activities and long-term planning.
 

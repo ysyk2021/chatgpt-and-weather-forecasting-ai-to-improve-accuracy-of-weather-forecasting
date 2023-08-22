@@ -1,5 +1,4 @@
-Objectives of the Book
-====================================
+
 
 The objective of this book is to explore how artificial intelligence (AI), specifically ChatGPT, can be used to improve the accuracy and reliability of weather forecasting. We will examine the limitations and challenges of traditional weather forecasting techniques, as well as the advantages of using AI in weather forecasting.
 
