@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the implementation of ChatGPT in weather forecasting. Specifically, we will discuss the planning and design process of ChatGPT for weather forecasting.
 
 Planning for ChatGPT in Weather Forecasting

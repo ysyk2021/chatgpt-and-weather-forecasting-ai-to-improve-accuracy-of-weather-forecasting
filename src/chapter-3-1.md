@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of the use of artificial intelligence (AI) in weather forecasting. AI techniques such as machine learning and deep learning have been increasingly used to improve the accuracy of weather forecasts.
 
 Machine learning involves training models on historical data to identify patterns and relationships that can be used to make predictions. In the context of weather forecasting, machine learning can be used to predict various weather variables such as temperature, humidity, wind speed, and precipitation.

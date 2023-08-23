@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is being used in various ways to improve the accuracy of weather forecasting. In this chapter, we will explore some of the types of AI techniques used in weather forecasting.
 
 Machine Learning

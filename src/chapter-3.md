@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is being used to improve the accuracy and reliability of weather forecasting. In this chapter, we will provide an overview of AI in weather forecasting, explore the advantages of using AI in weather forecasting, discuss the types of AI techniques used in weather forecasting, and highlight the challenges and limitations of using AI in weather forecasting.
 
 An Overview of AI in Weather Forecasting

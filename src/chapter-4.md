@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT, an AI-powered chatbot that is being used to improve the accuracy of weather forecasting.
 
 What is ChatGPT?

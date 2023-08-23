@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT and explain what it is. ChatGPT stands for "Chat Generative Pre-trained Transformer". It is an AI-based tool developed by OpenAI that uses natural language processing (NLP) to generate human-like text.
 
 ChatGPT is based on the transformer architecture, which is a neural network architecture that was introduced by Vaswani et al. in 2017. The transformer architecture has been instrumental in advancing the field of NLP and has led to significant improvements in tasks such as language translation, summarization, and question-answering.

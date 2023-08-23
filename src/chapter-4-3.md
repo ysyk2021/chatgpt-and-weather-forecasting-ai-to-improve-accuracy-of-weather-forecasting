@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT, an AI-based tool, and discuss the advantages of using ChatGPT in weather forecasting.
 
 There are several advantages of using ChatGPT in weather forecasting, including:

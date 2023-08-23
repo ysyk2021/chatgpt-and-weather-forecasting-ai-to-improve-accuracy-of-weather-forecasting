@@ -1,5 +1,4 @@
 
-
 Weather forecasting is the process of predicting future weather conditions based on analysis of meteorological data. In this chapter, we will explore the different types of weather forecasting techniques used today.
 
 Numerical Weather Prediction (NWP)

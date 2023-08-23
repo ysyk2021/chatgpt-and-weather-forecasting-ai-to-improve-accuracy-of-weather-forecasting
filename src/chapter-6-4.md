@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the evaluation of ChatGPT's performance and effectiveness in weather forecasting. Specifically, we will explore the metrics used to evaluate ChatGPT, methods for testing its accuracy, and case studies demonstrating its effectiveness in weather forecasting.
 
 Metrics for Evaluating ChatGPT
