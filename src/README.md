@@ -12,3 +12,7 @@ We'll also examine the challenges associated with using AI for weather forecasti
 Overall, this book aims to provide a comprehensive overview of the use of chatbots and AI in weather forecasting, and to demonstrate how these technologies can be leveraged to improve the accuracy and timeliness of weather predictions. Whether you're a weather enthusiast, a data scientist, or simply curious about the latest developments in AI, we hope you find this book informative and engaging.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
