@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will introduce ChatGPT, a powerful language model that is transforming the field of conversational AI. ChatGPT is a variant of GPT (Generative Pretrained Transformer), which is a deep learning model that has been trained on vast amounts of text data to generate human-like responses to input prompts. ChatGPT takes this concept one step further by incorporating dialogue history, allowing it to generate more coherent and engaging responses in conversations.
 

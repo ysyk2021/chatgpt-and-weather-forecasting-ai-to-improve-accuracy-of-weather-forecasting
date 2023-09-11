@@ -1,5 +1,4 @@
-Types of AI Techniques Used in Weather Forecasting
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the various AI techniques that are used in weather forecasting, including those employed by ChatGPT. These techniques leverage machine learning, data assimilation, and other AI methodologies to enhance the accuracy and reliability of weather predictions.
 

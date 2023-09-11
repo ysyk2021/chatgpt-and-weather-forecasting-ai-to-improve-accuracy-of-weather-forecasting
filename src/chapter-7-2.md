@@ -1,5 +1,4 @@
-Chapter 8: The Future of AI in Weather Forecasting
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of AI in weather forecasting is rapidly evolving and holds immense potential for the future. In this chapter, we will explore some of the key advancements and trends that are shaping the future of AI in weather forecasting.
 

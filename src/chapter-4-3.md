@@ -1,5 +1,4 @@
-Chapter 2: Advantages of Using ChatGPT in Weather Forecasting
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the advantages of using ChatGPT in weather forecasting and how it can improve the accuracy and effectiveness of existing weather forecasting systems. ChatGPT is a powerful tool that provides unique benefits over traditional weather forecasting methods, making it an attractive option for weather prediction and analysis.
 

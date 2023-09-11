@@ -1,5 +1,4 @@
-Types of Weather Forecasting Techniques Used Today
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Weather forecasting is a critical application area where various techniques are employed to predict weather conditions accurately. The following are the commonly used types of weather forecasting techniques:
 

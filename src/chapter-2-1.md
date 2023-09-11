@@ -1,5 +1,4 @@
-Chapter 1: What is Weather Forecasting?
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Weather forecasting plays a crucial role in our daily lives, providing valuable information about the atmospheric conditions that help us plan our activities and make informed decisions. In this chapter, we will explore the fundamentals of weather forecasting and how it has evolved over time.
 

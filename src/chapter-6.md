@@ -1,5 +1,4 @@
-Chapter 5: Implementation of ChatGPT in Weather Forecasting
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter provides insights into the implementation of ChatGPT in weather forecasting. The integration of ChatGPT has enhanced the accuracy and efficiency of weather forecasting, providing meteorologists with valuable insights and predictions to make informed decisions.
 

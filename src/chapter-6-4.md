@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness in Weather Forecasting
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by GPT-3.5, is an advanced AI model that holds promise in various applications, including weather forecasting. This chapter aims to evaluate the performance and effectiveness of ChatGPT in improving the accuracy of weather forecasts. Through a comprehensive analysis, we assess the strengths, limitations, and potential impact of integrating ChatGPT into the field of weather forecasting.
 

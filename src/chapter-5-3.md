@@ -1,5 +1,4 @@
-How ChatGPT Uses Data to Improve Weather Forecasting Accuracy
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores how ChatGPT and similar AI language models utilize data to enhance the accuracy of weather forecasting. By analyzing and processing vast amounts of weather-related data, ChatGPT can provide more reliable predictions and insights.
 

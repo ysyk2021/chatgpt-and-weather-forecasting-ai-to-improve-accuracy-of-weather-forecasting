@@ -1,5 +1,4 @@
-Chapter 4: Emerging Trends in AI Weather Forecasting
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) technology is rapidly transforming weather forecasting by enabling more accurate and timely predictions. In this chapter, we will explore some emerging trends in AI weather forecasting, which have the potential to revolutionize the field.
 

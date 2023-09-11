@@ -1,5 +1,4 @@
-Chapter 7: Personalization Techniques Used in ChatGPT for Weather Forecasting
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalization techniques play a crucial role in AI-based weather forecasting systems, such as ChatGPT, as they enhance the user experience and provide tailored information to individuals. In this chapter, we will explore some of the personalization techniques used in ChatGPT for weather forecasting.
 

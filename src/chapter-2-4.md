@@ -1,5 +1,4 @@
-Limitations and Challenges of Weather Forecasting
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Weather forecasting is a complex and dynamic field that faces several inherent limitations and challenges. While advancements in AI, such as ChatGPT, have improved accuracy, it is important to understand the constraints and difficulties faced by weather forecasting systems. This chapter explores the key limitations and challenges that impact the accuracy of weather forecasting predictions.
 

@@ -1,5 +1,4 @@
-Planning and Designing ChatGPT for Weather Forecasting
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of improving the accuracy of weather forecasting, meticulous planning and thoughtful design of ChatGPT play a crucial role. This chapter delves into the key considerations, methodologies, and best practices involved in planning and designing ChatGPT specifically tailored for weather forecasting tasks.
 

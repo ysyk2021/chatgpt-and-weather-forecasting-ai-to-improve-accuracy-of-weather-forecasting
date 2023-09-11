@@ -1,5 +1,4 @@
-Integration with Existing Weather Forecasting Systems
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To improve the accuracy of weather forecasting, the integration of ChatGPT and AI technologies presents a promising opportunity. This chapter explores the benefits, challenges, and strategies for integrating ChatGPT with existing weather forecasting systems.
 

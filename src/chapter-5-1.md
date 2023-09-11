@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Works in Weather Forecasting
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced AI technology that uses natural language processing to generate human-like conversations. In weather forecasting, ChatGPT can assist meteorologists in generating accurate and personalized weather forecasts for users. In this chapter, we will explore how ChatGPT works in weather forecasting.
 

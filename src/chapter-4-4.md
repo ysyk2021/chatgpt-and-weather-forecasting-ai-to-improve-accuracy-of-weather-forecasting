@@ -1,5 +1,4 @@
-Case Studies on ChatGPT in Weather Forecasting
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the application of ChatGPT and similar AI language models in the field of weather forecasting. Through case studies, we examine how ChatGPT has been utilized to improve the accuracy and accessibility of weather predictions.
 

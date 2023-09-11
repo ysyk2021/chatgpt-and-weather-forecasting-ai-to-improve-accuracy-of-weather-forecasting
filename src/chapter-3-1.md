@@ -1,5 +1,4 @@
-Chapter 2: An Overview of AI in Weather Forecasting
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has revolutionized various industries, and weather forecasting is no exception. In this chapter, we will provide an overview of how AI is transforming the field of weather forecasting, improving accuracy, and enabling new capabilities.
 

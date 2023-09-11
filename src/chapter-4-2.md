@@ -1,5 +1,4 @@
-Chapter 3: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features of ChatGPT, a cutting-edge language model that is revolutionizing the field of conversational AI. ChatGPT incorporates several key features that make it an invaluable tool for weather forecasting and improving the accuracy of predictions.
 

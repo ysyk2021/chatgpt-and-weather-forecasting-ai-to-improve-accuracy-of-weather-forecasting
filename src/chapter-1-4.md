@@ -1,5 +1,4 @@
-Chapter 1: Objectives of the Book
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The primary objective of this book is to provide an overview of the application of AI-based technologies, specifically ChatGPT, in weather forecasting. It aims to explore how these technologies are revolutionizing the field of meteorology and improving the accuracy of weather predictions.
 

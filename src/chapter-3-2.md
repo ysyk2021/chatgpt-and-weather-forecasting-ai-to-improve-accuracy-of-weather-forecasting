@@ -1,5 +1,4 @@
-Advantages of Using AI in Weather Forecasting
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter highlights the advantages of utilizing AI in weather forecasting. The integration of AI techniques, such as machine learning algorithms and data assimilation methods, offers several benefits that enhance the accuracy and reliability of weather predictions.
 

@@ -1,5 +1,4 @@
-Challenges and Limitations of Using AI in Weather Forecasting
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter discusses the challenges and limitations associated with using AI, specifically ChatGPT, in weather forecasting. While AI has shown great potential in improving forecast accuracy, certain factors need to be considered to ensure reliable predictions.
 

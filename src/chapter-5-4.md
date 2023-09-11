@@ -1,5 +1,4 @@
-Case Studies Demonstrating ChatGPT's Effectiveness in Improving Weather Forecasting Accuracy
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on presenting case studies that showcase the effectiveness of ChatGPT in improving weather forecasting accuracy. By leveraging its natural language processing capabilities and access to vast amounts of weather data, ChatGPT has demonstrated promising results in enhancing forecast models and providing valuable insights to meteorologists.
 

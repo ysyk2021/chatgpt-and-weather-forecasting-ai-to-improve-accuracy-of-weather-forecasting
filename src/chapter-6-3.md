@@ -1,5 +1,4 @@
-Training ChatGPT and Managing Conversations
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to improve the accuracy of weather forecasting, training ChatGPT and managing conversations play a pivotal role. This chapter explores the strategies, challenges, and best practices involved in training ChatGPT for weather forecasting and effectively managing conversations with users.
 
